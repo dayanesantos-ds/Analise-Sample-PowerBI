@@ -12,7 +12,7 @@ O dashboard foi construído com ênfase em interatividade, usabilidade e experi�
 
 ## Visualização do Dashboard (print):  
 
-![Diagrama do Banco]()
+![Diagrama do Banco](https://github.com/dayanesantos-ds/Analise-Sample-PowerBI/blob/main/P%C3%A1gina%201-1.png)
 
 ---
 
